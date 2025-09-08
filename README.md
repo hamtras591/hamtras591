@@ -7,7 +7,7 @@
 My name is Anderson Rubio and I'm a Data Analists /Data Scientist. I'm from Colombia, living in Bogotá.
 
 
-![Header](https://raw.githubusercontent.com/hamtras591/assets/refs/heads/main/Portada%20GitHub.svg "Header")
+<img src="https://raw.githubusercontent.com/hamtras591/assets/refs/heads/main/Portada%20GitHub.svg" width="100%">
 
 # Hello, Nerds! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
 
@@ -37,9 +37,10 @@ Here are some ideas to get you started:
   <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/datagrip.svg" alt="DataGrip" width="54" height="54" />
   <img src="https://raw.githubusercontent.com/hamtras591/assets/refs/heads/main/Power%20BI%20Logo.svg" alt="Power BI" width="54" height="54" />
   <img src="https://raw.githubusercontent.com/hamtras591/assets/refs/heads/main/Tableau.svg" alt="Tableau" width="54" height="54" />
-  <img src="https://raw.githubusercontent.com/hamtras591/assets/main/git_logo_black.svg#gh-light-mode-only" alt="Git_black" width="54" height="54" />
-  <img src="https://raw.githubusercontent.com/hamtras591/assets/main/git_logo_white.svg#gh-dark-mode-only" alt="Git_white" width="54" height="54" />
-  <img src="https://raw.githubusercontent.com/hamtras591/assets/refs/heads/main/github.svg" alt="GitHub" width="54" height="54" />
+  <img src="https://raw.githubusercontent.com/hamtras591/assets/refs/heads/main/git_logo_black.svg#gh-light-mode-only" alt="Git_black" width="54" height="54" />
+  <img src="https://raw.githubusercontent.com/hamtras591/assets/refs/heads/main/git_logo_black_to_wite.svg#gh-dark-mode-only" alt="Git_white" width="54" height="54" />
+  <img src="https://raw.githubusercontent.com/hamtras591/assets/refs/heads/main/github.svg#gh-light-mode-only" alt="GitHub_black" width="54" height="54" />
+  <img src="https://raw.githubusercontent.com/hamtras591/assets/refs/heads/main/github_withe.svg#gh-dark-mode-only" alt="GitHub_white" width="54" height="54" />
 
 </p>
 
