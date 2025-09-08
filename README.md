@@ -1,12 +1,3 @@
-<!-- More info, tips and tricks for making GitHub Profile README can be found in my article at https://towardsdatascience.com/build-a-stunning-readme-for-your-github-profile-9b80434fe5d7 -->
-
-![Header](https://raw.githubusercontent.com/hamtras591/assets/refs/heads/main/Portada%20GitHub.svg "Header")
-
-# Hello, Nerds! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
-
-My name is Anderson Rubio and I'm a Data Analists /Data Scientist. I'm from Colombia, living in Bogotá.
-
-
 <img src="https://raw.githubusercontent.com/hamtras591/assets/refs/heads/main/Portada%20GitHub.svg" width="100%">
 
 # Hello, Nerds! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
@@ -30,17 +21,29 @@ Here are some ideas to get you started:
 
 <h3>Mi Stack Tecnológico</h3>
 <p align="left">
-  <img src="https://raw.githubusercontent.com/hamtras591/assets/refs/heads/main/Python_logo.svg" alt="Python" width="54" height="54" />
-  <img src="https://raw.githubusercontent.com/hamtras591/assets/refs/heads/main/numpy.svg" alt="Numpy" width="54" height="54" />
-  <img src="https://raw.githubusercontent.com/hamtras591/assets/refs/heads/main/pandas.svg" alt="Pandas" width="54" height="54" />
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/pycharm.svg" alt="PyCharm" width="54" height="54" />
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/datagrip.svg" alt="DataGrip" width="54" height="54" />
-  <img src="https://raw.githubusercontent.com/hamtras591/assets/refs/heads/main/Power%20BI%20Logo.svg" alt="Power BI" width="54" height="54" />
-  <img src="https://raw.githubusercontent.com/hamtras591/assets/refs/heads/main/Tableau.svg" alt="Tableau" width="54" height="54" />
+
+  <img src="https://raw.githubusercontent.com/hamtras591/assets/main/Python_logo.svg#gh-light-mode-only" alt="Python_Black" width="54" height="54" />
+  <img src="https://raw.githubusercontent.com/hamtras591/assets/main/Python_logo_withe.svg#gh-dark-mode-only" alt="Python_Withe" width="54" height="54" />
+  <img src="https://raw.githubusercontent.com/hamtras591/assets/main/numpy.svg#gh-light-mode-only" alt="Numpy_black" width="54" height="54" />
+  <img src="https://raw.githubusercontent.com/hamtras591/assets/main/numpy_white.svg#gh-dark-mode-only" alt="Numpy_withe" width="54" height="54" />
+  <img src="https://raw.githubusercontent.com/hamtras591/assets/refs/heads/main/pandas.svg#gh-light-mode-only" alt="Pandas" width="54" height="54" />
+  <img src="https://raw.githubusercontent.com/hamtras591/assets/refs/heads/main/pandas_withe.svg#gh-dark-mode-only" alt="Pandas" width="54" height="54" />
+  <img src="https://raw.githubusercontent.com/hamtras591/assets/refs/heads/main/datagrip_black.svg#gh-light-mode-only" alt="DataGrip_Black" width="54" height="54" />
+  <img src="https://raw.githubusercontent.com/hamtras591/assets/refs/heads/main/datagrip_withe.svg#gh-dark-mode-only" alt="DataGrip_With" width="54" height="54" />
+  <img src="https://raw.githubusercontent.com/hamtras591/assets/refs/heads/main/pycharm_black.svg#gh-light-mode-only" alt="Pycharm_Black" width="54" height="54" />
+  <img src="https://raw.githubusercontent.com/hamtras591/assets/refs/heads/main/pycharm_withe.svg#gh-dark-mode-only" alt="Pycharm_With" width="54" height="54" />
+  <img src="https://raw.githubusercontent.com/hamtras591/assets/refs/heads/main/Power%20BI%20Logo.svg#gh-light-mode-only" alt="Power BI" width="54" height="54" />
+  <img src="https://raw.githubusercontent.com/hamtras591/assets/refs/heads/main/Power%20BI%20Logo_withe.svg#gh-dark-mode-only" alt="Power BI" width="54" height="54" />
+  <img src="https://raw.githubusercontent.com/hamtras591/assets/refs/heads/main/Tableau.svg#gh-light-mode-only" alt="Tableau_black" width="54" height="54" />
+  <img src="https://raw.githubusercontent.com/hamtras591/assets/refs/heads/main/Power%20BI%20Logo_withe.svg#gh-dark-mode-only" alt="Tableau_withe" width="54" height="54" />
   <img src="https://raw.githubusercontent.com/hamtras591/assets/refs/heads/main/git_logo_black.svg#gh-light-mode-only" alt="Git_black" width="54" height="54" />
   <img src="https://raw.githubusercontent.com/hamtras591/assets/refs/heads/main/git_logo_black_to_wite.svg#gh-dark-mode-only" alt="Git_white" width="54" height="54" />
   <img src="https://raw.githubusercontent.com/hamtras591/assets/refs/heads/main/github.svg#gh-light-mode-only" alt="GitHub_black" width="54" height="54" />
   <img src="https://raw.githubusercontent.com/hamtras591/assets/refs/heads/main/github_withe.svg#gh-dark-mode-only" alt="GitHub_white" width="54" height="54" />
+  <img src="https://raw.githubusercontent.com/hamtras591/assets/refs/heads/main/mysql.svg#gh-dark-mode-only" alt="MySQL_Black" width="54" height="54" />
+  <img src="https://raw.githubusercontent.com/hamtras591/assets/refs/heads/main/mysql_withe.svg#gh-dark-mode-only" alt="MySQL_Withe" width="54" height="54" />
+  <img src="https://raw.githubusercontent.com/hamtras591/assets/refs/heads/main/postgresql.svg#gh-dark-mode-only" alt="PostgreSQL_Black" width="54" height="54" />
+  <img src="https://raw.githubusercontent.com/hamtras591/assets/refs/heads/main/postgresql_withe.svg#gh-dark-mode-only" alt="PostgreSQL_Withe" width="54" height="54" />
 
 </p>
 
