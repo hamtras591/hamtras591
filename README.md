@@ -35,14 +35,14 @@ Here are some ideas to get you started:
   <img src="https://raw.githubusercontent.com/hamtras591/assets/refs/heads/main/Power%20BI%20Logo.svg#gh-light-mode-only" alt="Power BI" width="54" height="54" />
   <img src="https://raw.githubusercontent.com/hamtras591/assets/refs/heads/main/Power%20BI%20Logo_withe.svg#gh-dark-mode-only" alt="Power BI" width="54" height="54" />
   <img src="https://raw.githubusercontent.com/hamtras591/assets/refs/heads/main/Tableau.svg#gh-light-mode-only" alt="Tableau_black" width="54" height="54" />
-  <img src="https://raw.githubusercontent.com/hamtras591/assets/refs/heads/main/Power%20BI%20Logo_withe.svg#gh-dark-mode-only" alt="Tableau_withe" width="54" height="54" />
+  <img src="https://raw.githubusercontent.com/hamtras591/assets/refs/heads/main/Tableau_withe.svg#gh-dark-mode-only" alt="Tableau_withe" width="54" height="54" />
   <img src="https://raw.githubusercontent.com/hamtras591/assets/refs/heads/main/git_logo_black.svg#gh-light-mode-only" alt="Git_black" width="54" height="54" />
   <img src="https://raw.githubusercontent.com/hamtras591/assets/refs/heads/main/git_logo_black_to_wite.svg#gh-dark-mode-only" alt="Git_white" width="54" height="54" />
   <img src="https://raw.githubusercontent.com/hamtras591/assets/refs/heads/main/github.svg#gh-light-mode-only" alt="GitHub_black" width="54" height="54" />
   <img src="https://raw.githubusercontent.com/hamtras591/assets/refs/heads/main/github_withe.svg#gh-dark-mode-only" alt="GitHub_white" width="54" height="54" />
-  <img src="https://raw.githubusercontent.com/hamtras591/assets/refs/heads/main/mysql.svg#gh-dark-mode-only" alt="MySQL_Black" width="54" height="54" />
+  <img src="https://raw.githubusercontent.com/hamtras591/assets/refs/heads/main/mysql.svg#gh-light-mode-only" alt="MySQL_Black" width="54" height="54" />
   <img src="https://raw.githubusercontent.com/hamtras591/assets/refs/heads/main/mysql_withe.svg#gh-dark-mode-only" alt="MySQL_Withe" width="54" height="54" />
-  <img src="https://raw.githubusercontent.com/hamtras591/assets/refs/heads/main/postgresql.svg#gh-dark-mode-only" alt="PostgreSQL_Black" width="54" height="54" />
+  <img src="https://raw.githubusercontent.com/hamtras591/assets/refs/heads/main/postgresql.svg#gh-light-mode-only" alt="PostgreSQL_Black" width="54" height="54" />
   <img src="https://raw.githubusercontent.com/hamtras591/assets/refs/heads/main/postgresql_withe.svg#gh-dark-mode-only" alt="PostgreSQL_Withe" width="54" height="54" />
 
 </p>
