@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/hamtras591/assets/refs/heads/main/Portada%20GitHub.svg" width="100%">
+<img src="https://github.com/hamtras591/assets/blob/main/logo_definitivo.png?raw=true" width="100%">
 
 # Hello, Nerds! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
 
