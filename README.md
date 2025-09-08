@@ -64,6 +64,7 @@ Here are some ideas to get you started:
     <td align="center"><strong>GitHub</strong></td>
     <td align="center"><strong>MySQL</strong></td>
     <td align="center"><strong>PostgreSQL</strong></td>
+    <td align="center"><strong>SkLearn</strong></td>
   </tr>
   <tr>
     <td align="center">
@@ -85,6 +86,10 @@ Here are some ideas to get you started:
     <td align="center">
       <img src="https://raw.githubusercontent.com/hamtras591/assets/refs/heads/main/postgresql.svg#gh-light-mode-only" alt="PostgreSQL_Black" width="54" height="54" />
       <img src="https://raw.githubusercontent.com/hamtras591/assets/refs/heads/main/postgresql_withe.svg#gh-dark-mode-only" alt="PostgreSQL_Withe" width="54" height="54" />
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/hamtras591/assets/refs/heads/main/scikitlearn.svg#gh-light-mode-only" alt="Sklearn" width="54" height="54" />
+      <img src="https://raw.githubusercontent.com/hamtras591/assets/refs/heads/main/scikitlearn_withe.svg#gh-dark-mode-only" alt="PostgreSQL_Withe" width="54" height="54" />
     </td>
     <td></td> </tr>
 </table>
