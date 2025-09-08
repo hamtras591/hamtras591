@@ -30,8 +30,8 @@ Here are some ideas to get you started:
   <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/datagrip.svg" alt="DataGrip" width="54" height="54" />
   <img src="https://raw.githubusercontent.com/hamtras591/assets/refs/heads/main/Power%20BI%20Logo.svg" alt="Power BI" width="54" height="54" />
   <img src="https://raw.githubusercontent.com/hamtras591/assets/refs/heads/main/Tableau.svg" alt="Tableau" width="54" height="54" />
-  <img src="https://raw.githubusercontent.com/hamtras591/assets/main/git_logo_black.svg#gh-light-mode-only" alt="Git_black" width="54" height="54" />
-  <img src="https://raw.githubusercontent.com/hamtras591/assets/refs/heads/main/git_logo_black_to_wite.svg#gh-dark-mode-only" alt="Git_white" width="54" height="54" />
+  <img src="https://raw.githubusercontent.com/hamtras591/assets/main/git_logo_black.svg#gh-light-default-mode-only" alt="Git - Tema Claro" width="54" height="54" />
+  <img src="https://raw.githubusercontent.com/hamtras591/assets/refs/heads/main/git_logo_black_to_wite.svg#gh-dark-default-mode-only" alt="Git - Tema Oscuro" width="54" height="54" />
   <img src="https://raw.githubusercontent.com/hamtras591/assets/refs/heads/main/github.svg" alt="GitHub" width="54" height="54" />
 
 </p>
