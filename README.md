@@ -32,7 +32,8 @@ Here are some ideas to get you started:
   <img src="https://raw.githubusercontent.com/hamtras591/assets/refs/heads/main/Tableau.svg" alt="Tableau" width="54" height="54" />
   <img src="https://raw.githubusercontent.com/hamtras591/assets/refs/heads/main/git_logo_black.svg#gh-light-mode-only" alt="Git_black" width="54" height="54" />
   <img src="https://raw.githubusercontent.com/hamtras591/assets/refs/heads/main/git_logo_black_to_wite.svg#gh-dark-mode-only" alt="Git_white" width="54" height="54" />
-  <img src="https://raw.githubusercontent.com/hamtras591/assets/refs/heads/main/github.svg" alt="GitHub" width="54" height="54" />
+  <img src="https://raw.githubusercontent.com/hamtras591/assets/refs/heads/main/github.svg" alt="GitHub_black" width="54" height="54" />
+  <img src="https://raw.githubusercontent.com/hamtras591/assets/refs/heads/main/github_withe.svg#gh-dark-mode-only" alt="GitHub_white" width="54" height="54" />
 
 </p>
 
