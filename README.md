@@ -89,8 +89,8 @@ Here are some ideas to get you started:
     </td>
     <td align="center">
       <img src="https://raw.githubusercontent.com/hamtras591/assets/refs/heads/main/scikitlearn.svg#gh-light-mode-only" alt="Sklearn" width="54" height="54" />
-      <img src="https://raw.githubusercontent.com/hamtras591/assets/refs/heads/main/scikitlearn_withe.svg#gh-dark-mode-only" alt="PostgreSQL_Withe" width="54" height="54" />
+      <img src="https://raw.githubusercontent.com/hamtras591/assets/refs/heads/main/scikitlearn_withe.svg#gh-dark-mode-only" alt="Sklearn_black" width="54" height="54" />
     </td>
-    <td></td> </tr>
+  </tr>
 </table>
 </div>
