@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<img src="https://raw.githubusercontent.com/hamtras591/hamtras591/main/Heads/main/Portada%20Github.svg" width="100%">
+<img src="https://raw.githubusercontent.com/hamtras591/assets/refs/heads/main/Portada%20GitHub.svg" width="100%">
 
 # Hello, Nerds! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
 
