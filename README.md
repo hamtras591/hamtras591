@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+![Header](https://raw.githubusercontent.com/hamtras591/assets/refs/heads/main/Portada%20GitHub.svg "Header")
+
+# Hello, Nerds! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
+
+My name is Anderson Rubio and I'm a Data Analists /Data Scientist. I'm from Colombia, living in Bogotá.
+
 <!--
 **hamtras591/hamtras591** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
